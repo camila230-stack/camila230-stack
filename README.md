@@ -1,6 +1,6 @@
 <!-- Header con imagen kawaii -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/9a/86/49/9a864913947b09f603c7b3d76e4ae801.jpg" width="160" alt="kawaii bear" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg" width="1160" alt="kawaii bear" style="border-radius: 50%;" />
 
   <h1>Hola, soy Camila 🐻✨</h1>
   <h3>Estudiante de Ingeniería de Sistemas · 8vo ciclo</h3>
@@ -11,53 +11,59 @@
 ---
 
 <!-- Sobre mí -->
-## 🐻 sobre mí
-
+## 🐻✨ Sobre mí
 <img align="right" src="https://i.pinimg.com/736x/79/1c/66/791c66ae78557e6cd63ec991f4641167.jpg" width="140" alt="about bear" />
 
-Hola! Soy **Camila**, estudiante de Ingeniería de Sistemas en 8vo ciclo 🇵🇪
-Me apasiona el desarrollo web y el diseño UX/UI — me gusta crear cosas bonitas y que funcionen bien ✨
 
-Estoy en constante aprendizaje y siempre dispuesta a explorar nuevos campos y retos 🌱
-Creo que cada pequeño proyecto es un paso hacia donde quiero llegar 🐾
 
-**cuando no estoy programando...**
+𝙷𝚘𝚕𝚊, 𝚜𝚘𝚢 𝙲𝚊𝚖𝚒𝚕𝚊 — 𝚏𝚞𝚝𝚞𝚛𝚊 𝚒𝚗𝚐𝚎𝚗𝚒𝚎𝚛𝚊 𝚍𝚎 𝚜𝚒𝚜𝚝𝚎𝚖𝚊𝚜, 𝚌𝚘𝚗 𝚎𝚗𝚏𝚘𝚚𝚞𝚎 𝚊𝚕 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚠𝚎𝚋 𝚢 𝚏𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 💻✨  
 
-- 📖 Leyendo manhwas
-- 🎵 Escuchando música — de todo, sin excepción
-- 🧟 Viendo The Walking Dead *(me quedé en T11 cap 2... no me spoileen 🙏)*
-- 🎮 Jugando videojuegos
-- 👻 Series de terror
-- 💤 Durmiendo
+𝚂𝚒𝚎𝚗𝚝𝚘 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚍𝚊𝚍 𝚙𝚘𝚛 𝚎𝚕 𝚖𝚞𝚗𝚍𝚘 𝚝𝚎𝚌𝚗𝚘𝚕𝚘́𝚐𝚒𝚌𝚘 𝚢 𝚝𝚘𝚍𝚘 𝚕𝚘 𝚚𝚞𝚎 𝚕𝚘 𝚛𝚘𝚍𝚎𝚊 🌐  
+
+𝙼𝚎 𝚐𝚞𝚜𝚝𝚊𝚛𝚒́𝚊 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛 𝚢 𝚍𝚘𝚖𝚒𝚗𝚊𝚛 𝚖𝚞𝚌𝚑𝚊𝚜 𝚑𝚎𝚛𝚛𝚊𝚖𝚒𝚎𝚗𝚝𝚊𝚜 𝚝𝚎𝚌𝚗𝚘𝚕𝚘́𝚐𝚒𝚌𝚊𝚜, 𝚗𝚘 𝚜𝚘𝚕𝚘 𝚕𝚎𝚗𝚐𝚞𝚊𝚓𝚎𝚜 𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚌𝚒𝚘́𝚗 🚀  
+
+𝚀𝚞𝚒𝚎𝚛𝚘 𝚌𝚛𝚎𝚊𝚛 𝚌𝚘𝚜𝚊𝚜 𝚗𝚞𝚎𝚟𝚊𝚜, 𝚋𝚘𝚗𝚒𝚝𝚊𝚜, 𝚏𝚞𝚗𝚌𝚒𝚘𝚗𝚊𝚕𝚎𝚜 𝚎 𝚒𝚗𝚗𝚘𝚟𝚊𝚍𝚘𝚛𝚊𝚜 ✨  
+
+𝙴𝚜𝚝𝚘𝚢 𝚎𝚗 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚓𝚎, 𝚢 𝚌𝚊𝚍𝚊 𝚙𝚊𝚜𝚘 𝚙𝚎𝚚𝚞𝚎𝚗̃𝚘 𝚚𝚞𝚎 𝚍𝚘𝚢 𝚖𝚎 𝚊𝚌𝚎𝚛𝚌𝚊 𝚖𝚊́𝚜 𝚊 𝚖𝚒𝚜 𝚖𝚎𝚝𝚊𝚜 🌱🐾  
 
 <br clear="right"/>
 
 ---
 
-<!-- Tech Stack -->
-## 🛠 tecnologías & herramientas
-
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologías & herramientas
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="380">
-      <h4>💜 lo que sé usar</h4>
-      <img src="https://img.shields.io/badge/HTML5-F0997B?style=for-the-badge&logo=html5&logoColor=4A1B0C" />
-      <img src="https://img.shields.io/badge/CSS3-85B7EB?style=for-the-badge&logo=css3&logoColor=042C53" />
-      <img src="https://img.shields.io/badge/JavaScript-FAC775?style=for-the-badge&logo=javascript&logoColor=412402" />
-      <img src="https://img.shields.io/badge/Python-9FE1CB?style=for-the-badge&logo=python&logoColor=04342C" />
-      <img src="https://img.shields.io/badge/Figma-F4C0D1?style=for-the-badge&logo=figma&logoColor=4B1528" />
-    </td>
-    <td align="center" width="380">
-      <h4>🌱 aprendiendo</h4>
-      <p>Me encantaría seguir creciendo en diferentes lenguajes y frameworks.<br/>
-      Lo lograré poco a poco — cada pequeño paso cuenta 🐾</p>
-      <img src="https://img.shields.io/badge/siempre_en_progreso-CECBF6?style=for-the-badge&logoColor=26215C" />
-    </td>
-  </tr>
-</table>
+### ◈ Front-end & Mobile
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=7DCFFF" />
 
+### ◈ Back-end
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
+
+### ◈ Infra & Design
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A90E2" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</div>
+
+---
+
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
+
+<div align="center">
+  <a href="https://instagram.com/alex_lbnt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:alexneto510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-lopes-97352b287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </div>
 
 ---
@@ -85,15 +91,6 @@ Creo que cada pequeño proyecto es un paso hacia donde quiero llegar 🐾
 </div>
 
 ---
-
-<!-- Proyectos -->
-## 🌸 mis proyectos
-
-> He trabajado en algunos proyectos pequeños que me han ayudado a crecer.
-> Próximamente los iré añadiendo por aquí 🐾✨
-
----
-
 <!-- Stats -->
 ## 📊 mis estadísticas
 
