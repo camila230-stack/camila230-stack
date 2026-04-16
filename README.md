@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg" width="1160" alt="kawaii bear" style="border-radius: 50%;" />
 
-  <h1>Hola, soy Camila 🐻✨</h1>
-  <h3>Estudiante de Ingeniería de Sistemas · 8vo ciclo</h3>
+<h1>𝙷𝚘𝚕𝚊, 𝚜𝚘𝚢 𝙲𝚊𝚖𝚒𝚕𝚊 🐻✨</h1>
+<h3>𝚄𝚜𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚍𝚎 𝙸𝚗𝚐𝚎𝚗𝚒𝚎𝚛𝚒́𝚊 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 · 8𝚟𝚘 𝚌𝚒𝚌𝚕𝚘</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=D4537E&center=true&vCenter=true&width=500&lines=Frontend+Developer+in+progress+%F0%9F%8C%B8;UX+%2F+UI+Design+enthusiast+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1;Manhwa+reader+%26+gamer+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
