@@ -109,6 +109,3 @@ Creo que cada pequeño proyecto es un paso hacia donde quiero llegar 🐾
   <br/>
   <sub>✨ gracias por visitar mi perfil ✨</sub>
   <br/><br/>
-
-  ![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=D4537E&style=flat-square&label=visitas+al+perfil)
-</div>
