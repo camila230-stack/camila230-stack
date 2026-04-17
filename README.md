@@ -83,13 +83,13 @@
   
   <br clear="right"/>
 <div align="center">
-  <a href="https://instagram.com/alex_lbnt" target="_blank">
+  <a href="https://www.instagram.com/camiiiiiilu_/?hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="mailto:alexneto510@gmail.com">
+  <a href="mailto:camilamarinos42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://www.linkedin.com/in/alexandre-lopes-97352b287" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandra-roque-mariños/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </div>
