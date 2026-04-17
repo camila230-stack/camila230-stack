@@ -12,7 +12,7 @@
 
 <!-- Sobre mí -->
 ## 🐻✨ Sobre mí
-<img align="right" src="https://i.pinimg.com/736x/79/1c/66/791c66ae78557e6cd63ec991f4641167.jpg" width="140" alt="about bear" />
+<img align="right" src="https://i.pinimg.com/736x/9c/81/d4/9c81d45bd99cde6be1cc1c87235fbb92.jpg" width="240" alt="about bear" />
 
 
 
@@ -26,6 +26,17 @@
 
 𝙴𝚜𝚝𝚘𝚢 𝚎𝚗 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚓𝚎, 𝚢 𝚌𝚊𝚍𝚊 𝚙𝚊𝚜𝚘 𝚙𝚎𝚚𝚞𝚎𝚗̃𝚘 𝚚𝚞𝚎 𝚍𝚘𝚢 𝚖𝚎 𝚊𝚌𝚎𝚛𝚌𝚊 𝚖𝚊́𝚜 𝚊 𝚖𝚒𝚜 𝚖𝚎𝚝𝚊𝚜 🌱🐾  
 
+
+## 🌙 𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐...
+<img align="right" src="https://i.pinimg.com/736x/0b/3c/4a/0b3c4a67c00b196fbae7d722fdadfe7a.jpg" width="240" alt="about bear" />
+
+- 📖 𝙻𝚎𝚢𝚎𝚗𝚍𝚘 𝚖𝚊𝚗𝚑𝚠𝚊𝚜  
+- 🎵 𝙴𝚜𝚌𝚞𝚌𝚑𝚊𝚗𝚍𝚘 𝚖𝚞́𝚜𝚒𝚌𝚊 (𝚍𝚎 𝚝𝚘𝚍𝚘, 𝚜𝚒𝚗 𝚎𝚡𝚌𝚎𝚙𝚌𝚒𝚘́𝚗)  
+- 🧟 𝚅𝚒𝚎𝚗𝚍𝚘 *𝚃𝚑𝚎 𝚆𝚊𝚕𝚔𝚒𝚗𝚐 𝙳𝚎𝚊𝚍* (𝚖𝚎 𝚚𝚞𝚎𝚍𝚎́ 𝚎𝚗 𝚃11 𝚌𝚊𝚙 2 👀)  
+- 🎮 𝙹𝚞𝚐𝚊𝚗𝚍𝚘 𝚟𝚒𝚍𝚎𝚘𝚓𝚞𝚎𝚐𝚘𝚜  
+- 👻 𝚅𝚒𝚎𝚗𝚍𝚘 𝚜𝚎𝚛𝚒𝚎𝚜 𝚍𝚎 𝚝𝚎𝚛𝚛𝚘𝚛  
+- 💤 𝙳𝚞𝚛𝚖𝚒𝚎𝚗𝚍𝚘   
+
 <br clear="right"/>
 
 ---
@@ -33,27 +44,44 @@
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologías & herramientas
 <div align="center">
 
-### ◈ Front-end & Mobile
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=7DCFFF" />
+### ◈ Front-end
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
 ### ◈ Back-end
-<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
-<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
 
-### ◈ Infra & Design
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4A90E2" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=7A7AFF" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
+
+### ◈ Tools & Design
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=009FDA" />
+</p>
 
 </div>
 
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/6a/8e/4d/6a8e4d2b450f10d3733422efc4e95526.gif" width="1020" style="border-radius:12px;" />
+  <br/>
+  <sub>✨ 𝚐𝚛𝚊𝚌𝚒𝚊𝚜 𝚙𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚊𝚛 𝚖𝚒 𝚙𝚎𝚛𝚏𝚒𝚕 ✨</sub>
+  <br/><br/>
+---
+  
+  <br clear="right"/>
 <div align="center">
   <a href="https://instagram.com/alex_lbnt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
@@ -65,44 +93,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </div>
-
----
-
-<!-- Metas -->
-## 🎯 a dónde quiero llegar
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://i.pinimg.com/1200x/89/11/2f/89112f5e2a3cfcdc719741e3f5a3b688.jpg" width="90" /><br/>
-        <strong>Full Stack Developer</strong>
-      </td>
-      <td align="center" width="200">
-        <img src="https://i.pinimg.com/736x/bd/d2/40/bdd240dcc693ac1394a4ffbd6514e309.jpg" width="90" style="border-radius:8px;" /><br/>
-        <strong>UX / UI Designer</strong>
-      </td>
-      <td align="center" width="200">
-        <img src="https://i.pinimg.com/736x/53/40/44/53404443db14e494a525e81a43142431.jpg" width="90" style="border-radius:8px;" /><br/>
-        <strong>Desarrollo Web</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-<!-- Stats -->
-## 📊 mis estadísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=rose_pine&hide_border=true&ring=D4537E&fire=AFA9EC&currStreakLabel=D4537E" alt="streak" />
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://i.pinimg.com/736x/61/13/dc/6113dce7c8a61c4a4f9ee0b2abcbe33e.jpg" width="120" style="border-radius:12px;" />
-  <br/>
-  <sub>✨ gracias por visitar mi perfil ✨</sub>
-  <br/><br/>
